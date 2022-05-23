@@ -7,7 +7,7 @@ methodologies and to think with ease in multiple dimensions.
 
 <!--
 **Samlxy/samlxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-**radical - tokyonight** -->
+**radical - tokyonight - dracula** -->
 ### Skills
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=red)
@@ -31,7 +31,7 @@ methodologies and to think with ease in multiple dimensions.
 
 ### 📈 GitHub Stats
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> -->
-[![Samuel Nwali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samlxy&count_private=true&show_icons=true&theme=radical&hide_border=false)](https://github.com/Samlxy/github-readme-stats)
+[![Samuel Nwali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samlxy&count_private=true&show_icons=true&theme=dracula&hide_border=false)](https://github.com/Samlxy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samlxy&layout=compact&theme=tokyonight)](https://github.com/Samlxy/github-readme-stats)
 
