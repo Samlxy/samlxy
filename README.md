@@ -31,7 +31,7 @@ methodologies and to think with ease in multiple dimensions.
 
 ### 📈 GitHub Stats
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> -->
-[![Samuel Nwali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samlxy&count_private=true&show_icons=true&theme=dracula&hide_border=false)](https://github.com/Samlxy/github-readme-stats)
+[![Samuel Nwali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samlxy&count_private=true&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true)](https://github.com/Samlxy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samlxy&layout=compact&theme=tokyonight)](https://github.com/Samlxy/github-readme-stats)
 
