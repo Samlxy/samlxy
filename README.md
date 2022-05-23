@@ -15,15 +15,15 @@ methodologies and to think with ease in multiple dimensions.
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=grey)
 ![](https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=blue)
-<!-- ![](https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=violet) -->
-<!-- ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=black) -->
+![](https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=brown)
+![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=gray)
 <!-- ![](https://img.shields.io/badge/VB.Net-informational?style=for-the-badge&logo=VB.net&logoColor=white&color=important) -->
 <!-- ![](https://img.shields.io/badge/Jquery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=important) -->
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=black)
-![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=important)
-![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=white&color=navy)
 ![](https://img.shields.io/badge/Jasmine-informational?style=for-the-badge&logo=jasmine&logoColor=white&color=dark-green)
 ![](https://img.shields.io/badge/Clickup-informational?style=for-the-badge&logo=clickup&logoColor=white&color=important)
 ![](https://img.shields.io/badge/Asana-informational?style=for-the-badge&logo=asana&logoColor=white&color=purple)
