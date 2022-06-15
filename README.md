@@ -1,3 +1,5 @@
+<!-- Add banner/header image [![MasterHead](https://www.freecodecamp.org/news/content/images/2022/04/featured.jpg)](https://github.com/Samlxy/) -->
+
 ### Hi there 👋 Welcome!
 I’m a Frontend Engineer, Technology Enthusiast and Solution Provider with a
 remarkable ability to work efficiently with modern software tools and
@@ -50,6 +52,8 @@ methodologies and to think with ease in multiple dimensions.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+<!--Github Trophy [![trophy](https://github-profile-trophy.vercel.app/?username=samlxy&theme=onedark)](https://github.com/samlxy/github-profile-trophy) -->
 
 
 
