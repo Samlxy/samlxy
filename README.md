@@ -25,7 +25,7 @@ methodologies and to think with ease in multiple dimensions.
 ![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=white&color=navy)
-![](https://img.shields.io/badge/Jasmine-informational?style=for-the-badge&logo=jasmine&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/Chi-informational?style=for-the-badge&logo=jasmine&logoColor=white&color=dark-green)
 ![](https://img.shields.io/badge/Clickup-informational?style=for-the-badge&logo=clickup&logoColor=white&color=important)
 ![](https://img.shields.io/badge/Asana-informational?style=for-the-badge&logo=asana&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=black)
